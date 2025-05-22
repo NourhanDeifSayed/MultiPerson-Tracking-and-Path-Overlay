@@ -16,3 +16,4 @@ This project is an end-term assignment for a Computer Vision course. It focuses 
 - Trajectory visualization.
 - Exported annotated video.
 
+![image](https://github.com/user-attachments/assets/67855850-1bd6-4cac-a04e-f414a8a0954e)
