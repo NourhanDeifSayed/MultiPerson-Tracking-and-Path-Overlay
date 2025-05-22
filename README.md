@@ -16,5 +16,3 @@ This project is an end-term assignment for a Computer Vision course. It focuses 
 - Trajectory visualization.
 - Exported annotated video.
 
-## 📁 File Structure
-
